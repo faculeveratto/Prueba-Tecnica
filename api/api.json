@@ -1,0 +1,74 @@
+{
+    "eventos": [
+        {
+            "id": "1",
+            "title":"La matanza emprende",
+            "shortDescription": "6ta Edición del Emprender La Matanza + Entrega de Premio Joven Empresario : Aprovechá. Inscribite ya!!",
+            "longDescription": "El evento, que se realizará por sexta vez en el distrito, congrega a jóvenes, estudiantes, profesionales, comerciantes, emprendedores y empresarios, con el fin de sensibilizar y profundizar el espíritu emprendedor. El objetivo es poder incentivar a todos los jóvenes del partido de La Matanza vinculados al sector productivos, comercial y de servicios a llevar a cabo seguir creciendo en sus proyectos y negocios.Te esperamos!!!",
+            "date": "2022-11-09T15:00:00.969Z",
+            "organizer": "Juan Carlos",
+            "place": "La matanza, Buenos Aires. Argentina",
+            "state": "Publicada"
+        },
+        {
+            "id": "2",
+            "title":"Media Party",
+            "shortDescription": "Media Party, la conferencia de innovación en medios más grande de Latinoamérica, anuncia la convocatoria a quienes quieran postular sus iniciativas de innovación en la Media Feria. Además, abre la inscripción a todas las personas que quieran ser parte de la revolución de los medios.",
+            "longDescription": "Es el espacio donde las iniciativas mediáticas más innovadoras son presentadas por sus creadores, y las empresas de servicios muestran sus propuestas de valor para el sector. Un lugar único para el networking y el intercambio uno a uno. Workshops y charlas con expertos mundiales. Los participantes tendrán la posibilidad de asistir a más de 20 conferencias magistrales dirigidas por expertos mundiales, conocer experiencias innovadoras de medios de todo el mundo, capacitarse con en workshops de lo más diversos, generar historias, herramientas o productos digitales en el hackatón.",
+            "date": "2022-09-01T18:30:00.969Z",
+            "organizer": "Hernan",
+            "place": "Palermo, Buenos Aires. Argentina",
+            "state": "Borrador"
+        },
+        {
+            "id": "3",
+            "title":"Mujer, Madre y Emprendedora 6ta edición",
+            "shortDescription": "¡Volvemos con la 6ta edición de Mujer, Madre y Emprendedora!",
+            "longDescription": "MME, una iniciativa de Fabi Jafif, creadora de la comunidad De Madre a Madre . Un encuentro anual pensado exclusivamente para madres que son emprendedoras o que desean serlo. Luego de dos años de no poder realizarlo a raÍz de la pandemia volvemos con este evento único que recibe a +150 madres que quieran inspirarse, capacitar y tejer redes junto a otras emprendedoras. Vamos a aprender, emocionarnos, recargar energía y pasar una hermosa noche bajo el lema #NoTeDejesParaDespués celebrando nuestro día todas juntas!",
+            "date": "2022-12-01T11:00:00.969Z",
+            "organizer": "Fabiana",
+            "place": "San Telmo, Buenos Aires. Argentina",
+            "state": "Publicada"
+        },
+        {
+            "id": "4",
+            "title":"Puro Diseño",
+            "shortDescription": "Feria Puro Diseño reúne a los mejores diseñadores, hacedores y mentes brillantes de Argentina y Latam desde hace más de 22 años",
+            "longDescription": "Renueva su compromiso con la industria y refuerza su propósito: ser el espacio de venta y generación de nuevas oportunidades de negocios para el mundo del diseño. Networking, rondas de negocios, alianzas estratégicas, generación de acuerdos, charlas y talleres. La muestra de diseño más importante de la región regresa después de tres años con más impulso que nunca.",
+            "date": "2022-05-01T15:00:00.969Z",
+            "organizer": "Noelia",
+            "place": "Moron, Buenos Aires. Argentina",
+            "state": "Borrador"
+        }
+    ],
+    "users": [
+        {
+            "firstname": "Gabriel",
+            "lastname": "Rodriguez",
+            "isAdmin": "true",
+            "address": "gabyrodriguez@gmail.com",
+            "password": "789456"
+        },
+        {
+            "firstname": "Lucas",
+            "lastname": "Perez",
+            "isAdmin": "false",
+            "address": "lucasperez@gmail.com",
+            "password": "654987"
+        },
+        {
+            "firstname": "Santiago",
+            "lastname": "Gonzalez",
+            "isAdmin": "true",
+            "address": "santigonzalez@gmail.com",
+            "password": "456123"
+        },
+        {
+            "firstname": "Juan",
+            "lastname": "Lopez",
+            "isAdmin": "false",
+            "address": "juanlopez@gmail.com",
+            "password": "321654"
+        }
+    ]
+}
